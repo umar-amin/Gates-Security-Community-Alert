@@ -54,3 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any inquiries, please contact me at umar@funzoft.com.
+
+If you are interested in developing an app like this or have any other project in mind, feel free to reach out.
