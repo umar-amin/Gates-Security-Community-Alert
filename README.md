@@ -30,11 +30,11 @@ This app ensures that you stay informed and prepared by receiving the latest upd
 
 > _Add your UI/UX screenshots here._
 
-![Screenshot 1](path/to/your/screenshot1.png)
-![Screenshot 2](path/to/your/screenshot2.png)
-![Screenshot 3](path/to/your/screenshot3.png)
-![Screenshot 4](path/to/your/screenshot4.png)
-![Screenshot 5](path/to/your/screenshot5.png)
+![Screenshot 1](https://play-lh.googleusercontent.com/2bBYM9lZpqFjMDUlXbIJhqvq5i19yO_31mKa8UIAIXxwz3ai5HK_edmDT-iE7nfxPg=w2560-h1440-rw)
+![Screenshot 2](https://play-lh.googleusercontent.com/LJN7QGMggbpFxiTSy3Ph9B9vVawxfvD2AGI8hUgYJZ9bLN6X-HRZXdDbFNQ-DPiLDVk=w2560-h1440-rw)
+![Screenshot 3](https://play-lh.googleusercontent.com/D3zLOjW78M4-C42MeX-oN7zRTIO_UnU2XZkkGYp0woiMU68HzW8seUOpxOv_E9zToX8=w2560-h1440-rw)
+![Screenshot 4](https://play-lh.googleusercontent.com/V2dW0hPw1XkYzlaopnYiRF2s_firzs0gl0_iNJar3mACs_iL3e1Mf42WdX7L69lHUeRs=w2560-h1440-rw)
+![Screenshot 5](https://play-lh.googleusercontent.com/Vf6Et1oTVWIbbKjz0_00IDzlHwngCSik7w_FM4n25J9pMgDcHsSWcUqOa3U1vLT-pNze=w2560-h1440-rw)
 
 ### Code Structure
 
